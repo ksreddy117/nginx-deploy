@@ -1,3 +1,1 @@
-FROM nginx:latest
-RUN apt-get update  
-  
+<H1> Initial Version </H1>
